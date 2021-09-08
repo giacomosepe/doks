@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  Modern documentation theme
+  Modern documentation theme - Personalized
 </h3>
 
 <p align="center">
