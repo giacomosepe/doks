@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://friendly-heisenberg-269a11.netlify.app/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
