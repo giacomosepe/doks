@@ -7,7 +7,7 @@ titleAddition = "Developing modern companies"
 description = "Help for companies who want to develop and finance modern products using digital tools."
 
 ## Open Graph
-images = ["doks.png"]
+images = ["logo.png"]
 ogLocale = "en_US"
 domainTLD = "doks.netlify.app"
 titleHome = "Doks Theme"
@@ -22,18 +22,18 @@ schemaType = "Organization"
 schemaName = "Ianus Capital"
 schemaAuthor = "Giacomo Sepe"
 schemaAuthorTwitter = "https://twitter.com/giacomosepe"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/giacomosepe94/"
+schemaAuthorLinkedIn = "https://www.linkedin.com/in/giacomosepe/"
 schemaAuthorGitHub = "https://github.com/giacomosepe"
 schemaLocale = "en-US"
-schemaLogo = "logo-doks.png"
+schemaLogo = "logo.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
+schemaTwitter = ""
 schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/doks"
+schemaGitHub = ""
 schemaSection = "blog"
 
 ## Sitelinks Search Box
