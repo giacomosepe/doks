@@ -1,8 +1,8 @@
 backend:
   name: git-gateway
   branch: master # Branch to updamaste (optional; defaults to master)
-media_folder: static/img
-public_folder: /img
+media_folder: layout/sstatic
+public_folder: layouts
 collections:
   - name: 'blog'
     label: 'Blog'
