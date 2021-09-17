@@ -1,6 +1,7 @@
 ---
 title: "Connect with Giacomo"
 description: "Get in touch through the form"
+layout: connect
 date: 2021-09-06T08:49:55+00:00
 lastmod: 2021-09-06T08:49:55+00:00
 draft: false
@@ -10,7 +11,7 @@ images: []
 
 <div class="row justify-content-center">
   <div class="col-md-12 col-lg-10 col-xl-8">
-        <div style="width:800px">
+            <div style="width:800px">
             <div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/2f5579c30ebb1ceb0a169c1a71409f6b?embedded=1">
             </div>
             <script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js">
