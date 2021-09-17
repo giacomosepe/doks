@@ -10,8 +10,7 @@ images: []
 
 <div class="row justify-content-center">
   <div class="col-md-12 col-lg-10 col-xl-8">
-    <h1>{{ .Title }}</h1>
-    <hr>
+        
     
     <div style="width:800px">
         <div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/2f5579c30ebb1ceb0a169c1a71409f6b?embedded=1"></div>
@@ -32,5 +31,6 @@ images: []
         })
         </script>
     </div>
+
   </div>
 </div>
