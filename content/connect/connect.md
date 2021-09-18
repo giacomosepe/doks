@@ -8,4 +8,4 @@ images: []
 ---
 
 
-{{< typeform-embed >}}
+{{< connect >}}
