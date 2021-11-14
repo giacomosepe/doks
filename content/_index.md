@@ -1,7 +1,7 @@
 ---
 title : "Help for modern companies"
-description: "Management and finance to create and develop products and services with technological innovation."
-lead: "We scout financial resources, manage businesses and assess investments to create products for the current business environment"
+description: "Financial resources and managers for corporate ideas, inventions, products and projects."
+lead: "Financial resources and administration support to monetize corporate ideas, inventions, products and projects through private equity and governament funding, business management and modern communication strategies"
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
 draft: false
