@@ -1,7 +1,7 @@
 ---
-title : "E' l'epoca dei prodotti digitali"
+title : "E' ora di diventare digitali davvero"
 description: "Risorse finanziarie per la trasformazione digitale attraverso finanziamenti a fondo perduto, tassi agevolati e capitali privati."
-lead: "Tutte le aziende possono migliorare la redditività creando prodotti per nuovi mercati o digitalizzando i processi interni. Credo nel futuro delle PMI e investo e co-investo in progetti di trasformaizone digitale"
+lead: "Credo in un futuro digitale delle PMI e porto finanza publica e privata per immaginare nuovi processi e prodotti che cambino il mondo negli anni '20"
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
 draft: false
